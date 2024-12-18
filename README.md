@@ -22,9 +22,9 @@ This project uses the K-means clustering algorithm to detect DDoS attacks in sim
     python main.py
    
 ## How it Works
-Traffic Simulation: Random network traffic data is generated with some manipulation to simulate a DDoS attack.
-K-means Clustering: The K-means algorithm classifies the traffic into normal and attack traffic clusters.
-Visualization: Results are displayed in a scatter plot, highlighting normal vs attack traffic.
+- **Traffic Simulation: Random network traffic data is generated with some manipulation to simulate a DDoS attack.**
+- **K-means Clustering: The K-means algorithm classifies the traffic into normal and attack traffic clusters.**
+- **Visualization: Results are displayed in a scatter plot, highlighting normal vs attack traffic.**
 
 ## Conclusion
 This project demonstrates basic DDoS attack detection using K-means. Future improvements could include real-time detection and using more advanced machine learning algorithms.
