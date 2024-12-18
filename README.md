@@ -12,7 +12,7 @@ This project uses the K-means clustering algorithm to detect DDoS attacks in sim
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ddos-detection-kmeans.git
+   git clone git clone https://github.com/yourusername/ddos-detection-kmeans.git
    cd ddos-detection-kmeans
 2. Install dependencies:
    ```bash
